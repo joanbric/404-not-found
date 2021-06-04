@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://not-found-page.glitch.me/">
+    <a href="https://not-found-page.glitch.me/" terget="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/joanbric/404-not-found">
+    <a href="https://github.com/joanbric/404-not-found" terget="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" terget="_blank">
       Challenge
     </a>
   </h3>
@@ -35,8 +35,8 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+              
+![screenshot](https://raw.githubusercontent.com/joanbric/404-not-found/master/result.png)
 
 A challenge of the [devChallenges](https://devchallenges.io/). Consist in make a not found page to something web.
 This is 1 of 8 challenges to take a certificate, is very interesting and funny probe myself skills with this challenges.
